@@ -1,5 +1,5 @@
 
-# [Spark][SPARK-60174][zh] 移除 pyspark.sql.worker.utils 的 type: ignore[union-attr].md
+# [SPARK-60174][PYTHON][zh] 移除 pyspark.sql.worker.utils 的 type: ignore[union-attr].md
 
 > JIRA:[SPARK-60174](https://issues.apache.org/jira/projects/SPARK/issues/SPARK-60174)
 > PR:[apache/spark#59376](https://github.com/apache/spark/pull/59376)(撰寫日誌時仍是 open)
