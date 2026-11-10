@@ -1,4 +1,4 @@
-# [SPARK][SPARK-60145] 移除 pyspark.sql 的 type: ignore[var-annotated]
+# [SPARK-60145] 移除 pyspark.sql 的 type: ignore[var-annotated]
     tags: Apache Spark 新手實驗日誌, Apache Spark, PySpark, open source, 實驗日誌, mypy, type annotation
     description: 第一次為 Apache Spark 清 type: ignore:把 PySparkPlotAccessor._backends 的 var-annotated 換成明確型別
 
