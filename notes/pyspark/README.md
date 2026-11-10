@@ -1,6 +1,7 @@
 # Implementation Notes of PySpark
 
 參加 [pycontw2026 sprint](https://hackmd.io/@pycontw/r1At0RiPfx)，主走 type annotation；當時硬是殺出兩個pr，後來 pycontw 前有再多發兩個小pr。
+
 不過再之後發現有點不太懂這邊的風向是什麼，所以就先停住。(等看懂了再來免得出差錯 XD)
 
 ## List
