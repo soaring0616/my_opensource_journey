@@ -18,7 +18,7 @@
     - https://github.com/apache/spark/pull/59667
     - https://issues.apache.org/jira/projects/SPARK/issues/SPARK-60417
 - [SPARK-60174][PYTHON][TEST] Remove type: ignore[union-attr] in pyspark.sql.worker.utils
-    - [notes](https://github.com/soaring0616/my_opensource_journey/blob/main/notes/pyspark/[Apache%20Spark%20%E6%96%B0%E6%89%8B%E5%AF%A6%E9%A9%97%E6%97%A5%E8%AA%8C][SPARK-60174][zh]%20%E7%A7%BB%E9%99%A4%20pyspark.sql.worker.utils%20%E7%9A%84%20type%3A%20ignore[union-attr].md)
+    - [notes](https://github.com/soaring0616/my_opensource_journey/blob/main/notes/pyspark/[SPARK-60174][PYTHON][zh]%20%E7%A7%BB%E9%99%A4%20pyspark.sql.worker.utils%20%E7%9A%84%20type%3A%20ignore[union-attr].md)
     - https://github.com/apache/spark/pull/59376
     - https://issues.apache.org/jira/projects/SPARK/issues/SPARK-60174
 - [SPARK-60145][PYTHON] Remove type: ignore[var-annotated] in pyspark.sql
