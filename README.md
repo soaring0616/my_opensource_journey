@@ -2,7 +2,7 @@
 
 Motivated by [Tian Gao](https://youtu.be/LBW-XsAxEnU?si=Nkjx9H7giUJVSwaG) and [Peter](https://hackmd.io/@pycontw/2026/https%3A%2F%2Fhackmd.io%2FQs8iAdU9T_CJfHxvjF0nug%2Fpublish), with the assistance from Tian and [Rebecca](https://github.com/rchen152), I started my opensource journey.
 
-I'm grateful for the benefits of the AI ​​era, but I still hope to reduce my reliance on AI assistance more each day (at least I hope to be able to identify areas where it can't perform well).
+Thanks for those guide and also I'm grateful for the benefits of the AI ​​era. But I still hope to reduce my reliance on AI assistance more each day (at least I hope to be able to identify areas where it can't perform well).
 
 ## List
 
