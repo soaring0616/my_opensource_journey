@@ -7,6 +7,7 @@ I'm grateful for the benefits of the AI ​​era, but I still hope to reduce my
 ## List
 
 | Repo | Issue/Ticket | Pull Request | Status | 
+| ---- | ---- | ---- | ---- | 
 | [apache/spark](https://github.com/apache/spark) | [SPARK-60145](https://issues.apache.org/jira/projects/SPARK/issues/SPARK-60145) | [pr#59351](https://github.com/apache/spark/pull/59351) | closed |
 | [apache/spark](https://github.com/apache/spark) | [SPARK-60174](https://issues.apache.org/jira/projects/SPARK/issues/SPARK-60174) | [pr#59376](https://github.com/apache/spark/pull/59376) | closed|
 | [apache/spark](https://github.com/apache/spark) | [SPARK-60285](https://issues.apache.org/jira/projects/SPARK/issues/SPARK-60285) | [pr#59351](https://github.com/apache/spark/pull/59550) | open |
